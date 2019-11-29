@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-producer-2 (2)" />
+        <module name="spring-cloud-config-client (2)" />
+        <module name="zipkin-server" />
+        <module name="spring-cloud-config-server" />
+        <module name="spring-cloud-producer (3)" />
+        <module name="spring-cloud-hystrix" />
+        <module name="hystrix-dashboard-turbine (1)" />
+        <module name="spring-cloud-producer" />
+        <module name="spring-cloud-producer-2 (1)" />
+        <module name="spring-cloud-eureka-two" />
+        <module name="spring-cloud-eureka (8)" />
+        <module name="spring-cloud-producer (5)" />
+        <module name="spring-cloud-producer-1" />
+        <module name="spring-cloud-config-server (1)" />
+        <module name="spring-cloud-gateway" />
+        <module name="gateway-service-zuul-simple" />
+        <module name="spring-cloud-config-client" />
+        <module name="spring-boot-admin-server" />
+        <module name="spring-cloud-eureka (7)" />
+        <module name="spring-cloud-eureka (10)" />
+        <module name="spring-cloud-config-client-refresh" />
+        <module name="spring-cloud-eureka-cluster" />
+        <module name="spring-cloud-producer (4)" />
+        <module name="spring-cloud-config-client (1)" />
+        <module name="spring-cloud-consul" />
+        <module name="spring-cloud-consumer" />
+        <module name="spring-cloud-producer (2)" />
+        <module name="spring-cloud-consul-consumer" />
+        <module name="spring-cloud-consumer-hystrix" />
+        <module name="spring-cloud-eureka (4)" />
+        <module name="spring-cloud-eureka (9)" />
+        <module name="spring-cloud-consumer-node2" />
+        <module name="spring-cloud-consumer-node1" />
+        <module name="spring-cloud-config-eureka-bus" />
+        <module name="spring-cloud-config-client (3)" />
+        <module name="spring-cloud-producer (1) (org.springframework.boot)" />
+        <module name="spring-cloud-config-server (2)" />
+        <module name="spring-cloud-producer-2" />
+        <module name="cloud-gateway-eureka" />
+        <module name="spring-cloud-eureka (1)" />
+        <module name="spring-cloud-examples" />
+        <module name="hystrix-dashboard-turbine" />
+        <module name="eureka-producer-consumer" />
+        <module name="spring-cloud-eureka (2)" />
+        <module name="spring-cloud-eureka (1) (org.springframework.boot)" />
+        <module name="spring-cloud-eureka (5)" />
+        <module name="gateway-service-zuul-eureka" />
+        <module name="spring-cloud-config-server (3)" />
+        <module name="spring-cloud-consul-producer" />
+        <module name="spring-cloud-producer (1)" />
+        <module name="spring-cloud-consumer-hystrix-dashboard" />
+        <module name="spring-cloud-consul-producer-2" />
+        <module name="spring-cloud-eureka (3)" />
+        <module name="spring-cloud-config-eureka" />
+        <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-zuul (1)" />
+        <module name="spring-cloud-config-svn-refresh" />
+        <module name="cloud-gateway" />
+        <module name="spring-cloud-config-git" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud-gateway" target="1.8" />
+      <module name="cloud-gateway-eureka" target="1.8" />
+      <module name="eureka-producer-consumer" target="1.5" />
+      <module name="gateway-service-zuul" target="1.8" />
+      <module name="gateway-service-zuul-eureka" target="1.8" />
+      <module name="gateway-service-zuul-simple" target="1.8" />
+      <module name="hystrix-dashboard-turbine" target="1.5" />
+      <module name="hystrix-dashboard-turbine (1)" target="1.8" />
+      <module name="spring-boot-admin-eureka" target="1.8" />
+      <module name="spring-boot-admin-server" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-config-client (1)" target="1.8" />
+      <module name="spring-cloud-config-client (2)" target="1.8" />
+      <module name="spring-cloud-config-client (3)" target="1.8" />
+      <module name="spring-cloud-config-client-refresh" target="1.8" />
+      <module name="spring-cloud-config-eureka" target="1.5" />
+      <module name="spring-cloud-config-eureka-bus" target="1.5" />
+      <module name="spring-cloud-config-git" target="1.5" />
+      <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-cloud-config-server (1)" target="1.8" />
+      <module name="spring-cloud-config-server (2)" target="1.8" />
+      <module name="spring-cloud-config-server (3)" target="1.8" />
+      <module name="spring-cloud-config-svn-refresh" target="1.5" />
+      <module name="spring-cloud-consul" target="1.5" />
+      <module name="spring-cloud-consul-consumer" target="1.8" />
+      <module name="spring-cloud-consul-producer" target="1.8" />
+      <module name="spring-cloud-consul-producer-2" target="1.8" />
+      <module name="spring-cloud-consumer" target="1.7" />
+      <module name="spring-cloud-consumer-hystrix" target="1.8" />
+      <module name="spring-cloud-consumer-hystrix-dashboard" target="1.8" />
+      <module name="spring-cloud-consumer-node1" target="1.8" />
+      <module name="spring-cloud-consumer-node2" target="1.8" />
+      <module name="spring-cloud-eureka" target="1.5" />
+      <module name="spring-cloud-eureka (1)" target="1.7" />
+      <module name="spring-cloud-eureka (1) (org.springframework.boot)" target="1.8" />
+      <module name="spring-cloud-eureka (10)" target="1.5" />
+      <module name="spring-cloud-eureka (2)" target="1.8" />
+      <module name="spring-cloud-eureka (3)" target="1.8" />
+      <module name="spring-cloud-eureka (4)" target="1.8" />
+      <module name="spring-cloud-eureka (5)" target="1.8" />
+      <module name="spring-cloud-eureka (7)" target="1.8" />
+      <module name="spring-cloud-eureka (8)" target="1.8" />
+      <module name="spring-cloud-eureka (9)" target="1.5" />
+      <module name="spring-cloud-eureka-cluster" target="1.8" />
+      <module name="spring-cloud-eureka-two" target="1.8" />
+      <module name="spring-cloud-examples" target="1.5" />
+      <module name="spring-cloud-gateway" target="1.5" />
+      <module name="spring-cloud-hystrix" target="1.5" />
+      <module name="spring-cloud-producer" target="1.8" />
+      <module name="spring-cloud-producer (1)" target="1.7" />
+      <module name="spring-cloud-producer (1) (org.springframework.boot)" target="1.8" />
+      <module name="spring-cloud-producer (2)" target="1.8" />
+      <module name="spring-cloud-producer (3)" target="1.8" />
+      <module name="spring-cloud-producer (4)" target="1.5" />
+      <module name="spring-cloud-producer (5)" target="1.5" />
+      <module name="spring-cloud-producer-1" target="1.8" />
+      <module name="spring-cloud-producer-2" target="1.8" />
+      <module name="spring-cloud-producer-2 (1)" target="1.8" />
+      <module name="spring-cloud-producer-2 (2)" target="1.5" />
+      <module name="spring-cloud-sleuth-zipkin" target="1.8" />
+      <module name="spring-cloud-zuul" target="1.8" />
+      <module name="spring-cloud-zuul (1)" target="1.5" />
+      <module name="spring-cloud-zuul (3)" target="1.8" />
+      <module name="zipkin-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-gateway" options="-parameters" />
+      <module name="cloud-gateway-eureka" options="-parameters" />
+      <module name="spring-cloud-consul-consumer" options="-parameters" />
+      <module name="spring-cloud-consul-producer" options="-parameters" />
+      <module name="spring-cloud-consul-producer-2" options="-parameters" />
+      <module name="spring-cloud-eureka (1) (org.springframework.boot)" options="-parameters" />
+      <module name="spring-cloud-producer (1) (org.springframework.boot)" options="-parameters" />
+      <module name="spring-cloud-producer-1" options="-parameters" />
+    </option>
+  </component>
+</project>
