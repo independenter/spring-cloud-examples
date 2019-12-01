@@ -16,7 +16,9 @@
 
 	<packaging>pom</packaging>
 	<name>Spring boot admin</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot
+		test: http://localhost:8000
+	</description>
 
     <parent>
 		<groupId>org.springframework.boot</groupId>

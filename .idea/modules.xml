@@ -34,7 +34,6 @@
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-hystrix-dashboard/spring-cloud-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-hystrix-dashboard/spring-cloud-consumer-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-node1/spring-cloud-consumer-node1.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-node1/spring-cloud-consumer-node1.iml" />
       <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-node2/spring-cloud-consumer-node2.iml" filepath="$PROJECT_DIR$/hystrix-dashboard-turbine/spring-cloud-consumer-node2/spring-cloud-consumer-node2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gateway-service-zuul/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/gateway-service-zuul/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-producer-consumer/spring-cloud-eureka/spring-cloud-eureka (1).iml" filepath="$PROJECT_DIR$/eureka-producer-consumer/spring-cloud-eureka/spring-cloud-eureka (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway/spring-cloud-eureka/spring-cloud-eureka (1) (org.springframework.boot).iml" filepath="$PROJECT_DIR$/spring-cloud-gateway/spring-cloud-eureka/spring-cloud-eureka (1) (org.springframework.boot).iml" />
@@ -46,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka (7).iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka/spring-cloud-eureka (7).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-hystrix/spring-cloud-eureka/spring-cloud-eureka (8).iml" filepath="$PROJECT_DIR$/spring-cloud-hystrix/spring-cloud-eureka/spring-cloud-eureka (8).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-eureka/spring-cloud-eureka (9).iml" filepath="$PROJECT_DIR$/spring-cloud-sleuth-zipkin/spring-cloud-eureka/spring-cloud-eureka (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-service-zuul/spring-cloud-eureka/spring-cloud-eureka(6).iml" filepath="$PROJECT_DIR$/gateway-service-zuul/spring-cloud-eureka/spring-cloud-eureka(6).iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka-two/spring-cloud-eureka-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-examples.iml" />

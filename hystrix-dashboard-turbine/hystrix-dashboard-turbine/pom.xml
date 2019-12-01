@@ -9,7 +9,9 @@
 	<packaging>jar</packaging>
 
 	<name>hystrix-dashboard-turbine</name>
-	<description>Demo project for Spring cloud hystrix dashboard and turbine</description>
+	<description>Demo project for Spring cloud hystrix dashboard and turbine
+		http://localhost:8001/turbine.stream
+	</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
