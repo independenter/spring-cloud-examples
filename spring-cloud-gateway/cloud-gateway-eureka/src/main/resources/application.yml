@@ -15,10 +15,11 @@ spring:
      routes:
      - id: nameRoot
        uri: lb://spring-cloud-producer
+       #http://localhost:8888/name/hello
        predicates:
        - Path=/name/**
        filters:
-       - StripPrefix=2
+       - StripPrefix=1
      - id: add_request_parameter_route
 #       uri: http://localhost:9000
        uri: lb://spring-cloud-producer

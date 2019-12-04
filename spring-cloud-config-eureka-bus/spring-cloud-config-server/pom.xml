@@ -9,7 +9,10 @@
 	<packaging>jar</packaging>
 
 	<name>spring-cloud-config-server</name>
-	<description>Demo project for Spring cloud config</description>
+	<description>Demo project for Spring cloud config
+		F版本test: curl -X POST http://localhost:8001/actuator/bus-refresh
+		其他版本: curl -X POST http://localhost:8001/bus/refresh
+	</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
